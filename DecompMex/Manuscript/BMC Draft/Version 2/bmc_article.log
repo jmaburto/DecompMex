@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.8)  23 MAR 2017 14:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.8)  8 MAY 2017 14:40
 entering extended mode
 **./bmc_article.tex
 (bmc_article.tex
@@ -551,8 +551,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 172.
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <8> not available
-(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 269.
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 271.
 
 
 
@@ -574,32 +578,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 403--404
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 412--413
+Underfull \hbox (badness 10000) in paragraph at lines 412--414
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 425--426
 
  []
 
-[8] [9] [10] (bmc_article.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--446
+
+ []
+
+[8] [9] [10] (bmc_article.bbl [11]
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/it' in size <7> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 139.
 
 
-[11])
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[12] 
+[12]) 
 AED: lastpage setting LastPage
 [13] (bmc_article.aux)
 
@@ -612,12 +611,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  2962 strings out of 493334
- 39474 string characters out of 3128924
- 122019 words of memory out of 3000000
+ 39483 string characters out of 3128924
+ 118272 words of memory out of 3000000
  6473 multiletter control sequences out of 15000+200000
  9469 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,10n,37p,1840b,400s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,10n,37p,1799b,404s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/jmaburto/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/cm/cmmi10.pfb><C:/Users/jmaburto/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmr10.pfb><C:/Users/jmaburto/AppData/Local/Programs/MiKT
@@ -632,7 +631,7 @@ public/amsfonts/cm/cmss8.pfb><C:/Users/jmaburto/AppData/Local/Programs/MiKTeX 2
 to/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><
 C:/Users/jmaburto/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmsy8.pfb>
-Output written on bmc_article.pdf (13 pages, 177258 bytes).
+Output written on bmc_article.pdf (13 pages, 179211 bytes).
 PDF statistics:
  89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.8)  30 MAR 2017 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.9.8)  5 MAY 2017 15:24
 entering extended mode
 **"./Supplemental material.tex"
 ("Supplemental material.tex"
@@ -449,37 +449,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--46
  []
 
 
-Overfull \hbox (19.21284pt too wide) in alignment at lines 49--53
+Overfull \hbox (19.21284pt too wide) in alignment at lines 91--95
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (19.21284pt too wide) in alignment at lines 53--59
+Overfull \hbox (19.21284pt too wide) in alignment at lines 95--101
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (19.21284pt too wide) in alignment at lines 59--61
+Overfull \hbox (19.21284pt too wide) in alignment at lines 101--103
  [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (19.21284pt too wide) in alignment at lines 61--63
+Overfull \hbox (19.21284pt too wide) in alignment at lines 103--105
  [] [] [] [] [] [] 
  []
 
 
-Underfull \hbox (badness 6141) in paragraph at lines 65--65
+Underfull \hbox (badness 6141) in paragraph at lines 107--107
 \OT1/cmr/m/n/10 J39, J60-J99, J09-J18,
  []
 
 
-Underfull \hbox (badness 5908) in paragraph at lines 65--66
+Underfull \hbox (badness 5908) in paragraph at lines 107--108
 \OT1/cmr/m/n/10 37, 137, 020-027, 38,
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 65--66
+Underfull \hbox (badness 1210) in paragraph at lines 107--108
 \OT1/cmr/m/n/10 082, 087, 090-099, 102,
  []
 
@@ -487,202 +487,229 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 3029) in paragraph at lines 66--66
+Underfull \hbox (badness 3029) in paragraph at lines 108--108
 \OT1/cmr/m/n/10 skin, breast, cervix, prostate, testis, blad-der,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--66
+Underfull \hbox (badness 10000) in paragraph at lines 108--108
 []|\OT1/cmr/m/n/10 C16,C18-C21, C43-C44,
  []
 
 
-Underfull \hbox (badness 5519) in paragraph at lines 66--66
+Underfull \hbox (badness 5519) in paragraph at lines 108--108
 \OT1/cmr/m/n/10 C50, C53, C61, C62,
  []
 
 
-Underfull \hbox (badness 6961) in paragraph at lines 66--67
+Underfull \hbox (badness 6961) in paragraph at lines 108--109
 []|\OT1/cmr/m/n/10 153-154, 172-173, 174,
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 66--67
+Underfull \hbox (badness 1210) in paragraph at lines 108--109
 \OT1/cmr/m/n/10 180, 185, 186, 188-189,
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 69--69
+Underfull \hbox (badness 2600) in paragraph at lines 111--111
 []|\OT1/cmr/m/n/10 E00-E07, 40-G41, K25-
  []
 
 
-Underfull \hbox (badness 6961) in paragraph at lines 69--70
+Underfull \hbox (badness 6961) in paragraph at lines 111--112
 []|\OT1/cmr/m/n/10 240-246, 345, 531-533,
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 69--70
+Underfull \hbox (badness 6300) in paragraph at lines 111--112
 \OT1/cmr/m/n/10 540-543, 550-553, 574-
  []
 
 
-Overfull \hbox (19.21284pt too wide) in alignment at lines 63--84
- [] [] [] [] [] [] 
- []
-
-
-Underfull \hbox (badness 1087) in paragraph at lines 87--87
-[]|\OT1/cmr/m/n/10 C00-D48, I00-I99 if not
- []
-
-
-Underfull \hbox (badness 1755) in paragraph at lines 87--89
-[]|\OT1/cmr/m/n/10 140-239, 390-459 if not
- []
-
-
-Overfull \hbox (19.21284pt too wide) in alignment at lines 84--89
+Overfull \hbox (19.21284pt too wide) in alignment at lines 105--127
  [] [] [] [] [] [] 
  []
 
 [2] <Sensitivity_fig.pdf, id=14, 722.7pt x 505.89pt>
 File: Sensitivity_fig.pdf Graphic file (type pdf)
  <use Sensitivity_fig.pdf>
-Package pdftex.def Info: Sensitivity_fig.pdf used on input line 111.
-(pdftex.def)             Requested size: 433.62334pt x 303.53633pt.
+Package pdftex.def Info: Sensitivity_fig.pdf used on input line 148.
+(pdftex.def)             Requested size: 469.74944pt x 328.82458pt.
 
 <CVfig.pdf, id=15, 794.97pt x 505.89pt>
 File: CVfig.pdf Graphic file (type pdf)
  <use CVfig.pdf>
-Package pdftex.def Info: CVfig.pdf used on input line 120.
-(pdftex.def)             Requested size: 397.48402pt x 252.94437pt.
+Package pdftex.def Info: CVfig.pdf used on input line 157.
+(pdftex.def)             Requested size: 357.7332pt x 227.64839pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<Adult_Female_heatmap.pdf, id=16, 1445.4pt x 794.97pt>
+<RankFemales.pdf, id=16, 361.35pt x 578.16pt>
+File: RankFemales.pdf Graphic file (type pdf)
+ <use RankFemales.pdf>
+Package pdftex.def Info: RankFemales.pdf used on input line 164.
+(pdftex.def)             Requested size: 180.67456pt x 289.07928pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Adult_Male_heatmap.pdf, id=17, 1445.4pt x 794.97pt>
+File: Adult_Male_heatmap.pdf Graphic file (type pdf)
+
+<use Adult_Male_heatmap.pdf>
+Package pdftex.def Info: Adult_Male_heatmap.pdf used on input line 173.
+(pdftex.def)             Requested size: 433.62335pt x 238.49284pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<Adult_Female_heatmap.pdf, id=18, 1445.4pt x 794.97pt>
 File: Adult_Female_heatmap.pdf Graphic file (type pdf)
 
 <use Adult_Female_heatmap.pdf>
-Package pdftex.def Info: Adult_Female_heatmap.pdf used on input line 129.
-(pdftex.def)             Requested size: 448.06937pt x 246.43816pt.
+Package pdftex.def Info: Adult_Female_heatmap.pdf used on input line 180.
+(pdftex.def)             Requested size: 433.62335pt x 238.49284pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-File: Adult_Female_heatmap.pdf Graphic file (type pdf)
-<use Adult_Female_heatmap.pdf>
-Package pdftex.def Info: Adult_Female_heatmap.pdf used on input line 136.
-(pdftex.def)             Requested size: 448.06937pt x 246.43816pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<Young_Male_heatmap.pdf, id=17, 1445.4pt x 794.97pt>
+<Young_Male_heatmap.pdf, id=19, 1445.4pt x 794.97pt>
 File: Young_Male_heatmap.pdf Graphic file (type pdf)
 
 <use Young_Male_heatmap.pdf>
-Package pdftex.def Info: Young_Male_heatmap.pdf used on input line 144.
+Package pdftex.def Info: Young_Male_heatmap.pdf used on input line 188.
 (pdftex.def)             Requested size: 433.62335pt x 238.49284pt.
 
-<Young_Female_heatmap.pdf, id=18, 1445.4pt x 794.97pt>
+<Young_Female_heatmap.pdf, id=20, 1445.4pt x 794.97pt>
 File: Young_Female_heatmap.pdf Graphic file (type pdf)
 
 <use Young_Female_heatmap.pdf>
-Package pdftex.def Info: Young_Female_heatmap.pdf used on input line 152.
+Package pdftex.def Info: Young_Female_heatmap.pdf used on input line 196.
 (pdftex.def)             Requested size: 433.62335pt x 238.49284pt.
 
-<YoungAdult_Male_heatmap.pdf, id=19, 1445.4pt x 794.97pt>
+<YoungAdult_Male_heatmap.pdf, id=21, 1445.4pt x 794.97pt>
 File: YoungAdult_Male_heatmap.pdf Graphic file (type pdf)
 
 <use YoungAdult_Male_heatmap.pdf>
-Package pdftex.def Info: YoungAdult_Male_heatmap.pdf used on input line 161.
+Package pdftex.def Info: YoungAdult_Male_heatmap.pdf used on input line 206.
 (pdftex.def)             Requested size: 433.62335pt x 238.49284pt.
 
-<YoungAdult_Female_heatmap.pdf, id=20, 1445.4pt x 794.97pt>
+<YoungAdult_Female_heatmap.pdf, id=22, 1445.4pt x 794.97pt>
 File: YoungAdult_Female_heatmap.pdf Graphic file (type pdf)
 
 <use YoungAdult_Female_heatmap.pdf>
-Package pdftex.def Info: YoungAdult_Female_heatmap.pdf used on input line 169.
+Package pdftex.def Info: YoungAdult_Female_heatmap.pdf used on input line 214.
 (pdftex.def)             Requested size: 433.62335pt x 238.49284pt.
 
-<Distance_y.pdf, id=21, 578.16pt x 794.97pt>
+<Distance_y.pdf, id=23, 578.16pt x 794.97pt>
 File: Distance_y.pdf Graphic file (type pdf)
  <use Distance_y.pdf>
-Package pdftex.def Info: Distance_y.pdf used on input line 179.
-(pdftex.def)             Requested size: 289.07928pt x 397.48402pt.
+Package pdftex.def Info: Distance_y.pdf used on input line 224.
+(pdftex.def)             Requested size: 462.52863pt x 635.97687pt.
 
-<Distance_ya.pdf, id=22, 578.16pt x 794.97pt>
+
+LaTeX Warning: Float too large for page by 37.27065pt on input line 226.
+
+<Distance_ya.pdf, id=24, 578.16pt x 794.97pt>
 File: Distance_ya.pdf Graphic file (type pdf)
  <use Distance_ya.pdf>
-Package pdftex.def Info: Distance_ya.pdf used on input line 187.
-(pdftex.def)             Requested size: 289.07928pt x 397.48402pt.
+Package pdftex.def Info: Distance_ya.pdf used on input line 232.
+(pdftex.def)             Requested size: 462.52863pt x 635.97687pt.
 
-<Distance_oa.pdf, id=23, 578.16pt x 794.97pt>
+
+LaTeX Warning: Float too large for page by 37.27065pt on input line 234.
+
+<Distance_oa.pdf, id=25, 578.16pt x 794.97pt>
 File: Distance_oa.pdf Graphic file (type pdf)
  <use Distance_oa.pdf>
-Package pdftex.def Info: Distance_oa.pdf used on input line 195.
-(pdftex.def)             Requested size: 289.07928pt x 397.48402pt.
+Package pdftex.def Info: Distance_oa.pdf used on input line 240.
+(pdftex.def)             Requested size: 462.52863pt x 635.97687pt.
 
-<Figure_prop_yf.pdf, id=24, 1011.78pt x 722.7pt>
+
+LaTeX Warning: Float too large for page by 37.27065pt on input line 242.
+
+<Figure_prop_yf.pdf, id=26, 1011.78pt x 722.7pt>
 File: Figure_prop_yf.pdf Graphic file (type pdf)
  <use Figure_prop_yf.pdf>
-Package pdftex.def Info: Figure_prop_yf.pdf used on input line 208.
-(pdftex.def)             Requested size: 455.2968pt x 325.21199pt.
+Package pdftex.def Info: Figure_prop_yf.pdf used on input line 253.
+(pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-<Figure_prop_ym.pdf, id=25, 1011.78pt x 722.7pt>
+Overfull \hbox (33.85753pt too wide) in paragraph at lines 253--254
+ [] 
+ []
+
+<Figure_prop_ym.pdf, id=27, 1011.78pt x 722.7pt>
 File: Figure_prop_ym.pdf Graphic file (type pdf)
  <use Figure_prop_ym.pdf>
-Package pdftex.def Info: Figure_prop_ym.pdf used on input line 216.
-(pdftex.def)             Requested size: 455.2968pt x 325.21199pt.
+Package pdftex.def Info: Figure_prop_ym.pdf used on input line 261.
+(pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-<Figure_prop_yaf.pdf, id=26, 1011.78pt x 722.7pt>
+Overfull \hbox (33.85753pt too wide) in paragraph at lines 261--262
+ [] 
+ []
+
+<Figure_prop_yaf.pdf, id=28, 1011.78pt x 722.7pt>
 File: Figure_prop_yaf.pdf Graphic file (type pdf)
  <use Figure_prop_yaf.pdf>
-Package pdftex.def Info: Figure_prop_yaf.pdf used on input line 226.
-(pdftex.def)             Requested size: 455.2968pt x 325.21199pt.
+Package pdftex.def Info: Figure_prop_yaf.pdf used on input line 271.
+(pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-<Figure_prop_yam.pdf, id=27, 1011.78pt x 722.7pt>
+Overfull \hbox (33.85753pt too wide) in paragraph at lines 271--272
+ [] 
+ []
+
+<Figure_prop_yam.pdf, id=29, 1011.78pt x 722.7pt>
 File: Figure_prop_yam.pdf Graphic file (type pdf)
  <use Figure_prop_yam.pdf>
-Package pdftex.def Info: Figure_prop_yam.pdf used on input line 235.
-(pdftex.def)             Requested size: 455.2968pt x 325.21199pt.
+Package pdftex.def Info: Figure_prop_yam.pdf used on input line 280.
+(pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-<Figure_prop_oam.pdf, id=28, 1011.78pt x 722.7pt>
+Overfull \hbox (33.85753pt too wide) in paragraph at lines 280--281
+ [] 
+ []
+
+<Figure_prop_oam.pdf, id=30, 1011.78pt x 722.7pt>
 File: Figure_prop_oam.pdf Graphic file (type pdf)
  <use Figure_prop_oam.pdf>
-Package pdftex.def Info: Figure_prop_oam.pdf used on input line 244.
-(pdftex.def)             Requested size: 455.2968pt x 325.21199pt.
+Package pdftex.def Info: Figure_prop_oam.pdf used on input line 289.
+(pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-<Figure_prop_oaf.pdf, id=29, 1011.78pt x 722.7pt>
+Overfull \hbox (33.85753pt too wide) in paragraph at lines 289--290
+ [] 
+ []
+
+<Figure_prop_oaf.pdf, id=31, 1011.78pt x 722.7pt>
 File: Figure_prop_oaf.pdf Graphic file (type pdf)
  <use Figure_prop_oaf.pdf>
-Package pdftex.def Info: Figure_prop_oaf.pdf used on input line 253.
-(pdftex.def)             Requested size: 455.2968pt x 325.21199pt.
+Package pdftex.def Info: Figure_prop_oaf.pdf used on input line 298.
+(pdftex.def)             Requested size: 505.88876pt x 361.3491pt.
 
-("Supplemental material.bbl") [3 <./Sensitivity_fig.pdf>]
+Overfull \hbox (33.85753pt too wide) in paragraph at lines 298--299
+ [] 
+ []
 
-LaTeX Warning: Text page 4 contains only floats.
-
-[4 <./CVfig.pdf> <./Adult_Female_heatmap.pdf>] [5] [6 <./Young_Male_heatmap.pdf
-> <./Young_Female_heatmap.pdf>] [7 <./YoungAdult_Male_heatmap.pdf> <./YoungAdul
-t_Female_heatmap.pdf>] [8 <./Distance_y.pdf>] [9 <./Distance_ya.pdf>] [10 <./Di
-stance_oa.pdf>] [11 <./Figure_prop_yf.pdf>] [12 <./Figure_prop_ym.pdf>]
-[13 <./Figure_prop_yaf.pdf>] [14 <./Figure_prop_yam.pdf>] [15 <./Figure_prop_oa
-m.pdf>] [16 <./Figure_prop_oaf.pdf>] ("Supplemental material.aux") )
+("Supplemental material.bbl") [3 <./Sensitivity_fig.pdf>] [4 <./CVfig.pdf> <./R
+ankFemales.pdf>] [5 <./Adult_Male_heatmap.pdf> <./Adult_Female_heatmap.pdf>]
+[6 <./Young_Male_heatmap.pdf> <./Young_Female_heatmap.pdf>] [7 <./YoungAdult_Ma
+le_heatmap.pdf> <./YoungAdult_Female_heatmap.pdf>] [8 <./Distance_y.pdf>]
+[9 <./Distance_ya.pdf>] [10 <./Distance_oa.pdf>] [11 <./Figure_prop_yf.pdf>]
+[12 <./Figure_prop_ym.pdf>] [13 <./Figure_prop_yaf.pdf>] [14 <./Figure_prop_yam
+.pdf>] [15 <./Figure_prop_oam.pdf>] [16 <./Figure_prop_oaf.pdf>]
+("Supplemental material.aux") )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 47 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 6211 strings out of 493334
- 93022 string characters out of 3128924
- 186027 words of memory out of 3000000
- 9630 multiletter control sequences out of 15000+200000
+ 6222 strings out of 493334
+ 93258 string characters out of 3128924
+ 186035 words of memory out of 3000000
+ 9639 multiletter control sequences out of 15000+200000
  9369 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,39p,699b,335s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,7n,39p,700b,331s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/jmaburto/AppData/Local/Programs/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmbx10.pfb><C:/Users/jmaburto/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/jmaburto/AppData/Loca
@@ -700,9 +727,9 @@ ic/amsfonts/cm/cmr8.pfb><C:/Users/jmaburto/AppData/Local/Programs/MiKTeX 2.9/fo
 nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/jmaburto/AppData/Local/Progra
 ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/jmaburto/AppDa
 ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Supplemental material.pdf" (16 pages, 501672 bytes).
+Output written on "Supplemental material.pdf" (16 pages, 676587 bytes).
 PDF statistics:
- 258 PDF objects out of 1000 (max. 8388607)
+ 316 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
 

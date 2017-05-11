@@ -240,20 +240,6 @@ Direcci{\'o}n General de Informaci{\'o}n en Salud, Secretar{\'\i}a de Salud.
 \endbibitem
 
 %%% 15
-\bibitem{agudelo2014efecto}
-\begin{barticle}
-\bauthor{\bsnm{Agudelo-Botero}, \binits{M.}},
-\bauthor{\bsnm{D{\'a}vila-Cervantes}, \binits{C.A.}}:
-\batitle{Efecto de las muertes evitables y no evitables en la esperanza de vida
-  en m{\'e}xico, 1998--2000 y 2008--2010}.
-\bjtitle{Rev Panam Salud Publica}
-\bvolume{35}(\bissue{2}),
-\bfpage{121}
-(\byear{2014})
-\end{barticle}
-\endbibitem
-
-%%% 16
 \bibitem{davila2014mortalidad}
 \begin{barticle}
 \bauthor{\bsnm{D{\'a}vila-Cervantes}, \binits{C.A.}},
@@ -268,7 +254,7 @@ Direcci{\'o}n General de Informaci{\'o}n en Salud, Secretar{\'\i}a de Salud.
 \end{barticle}
 \endbibitem
 
-%%% 17
+%%% 16
 \bibitem{Aburto2015}
 \begin{barticle}
 \bauthor{\bsnm{Aburto}, \binits{J.M.}},
@@ -284,19 +270,19 @@ Direcci{\'o}n General de Informaci{\'o}n en Salud, Secretar{\'\i}a de Salud.
 \end{barticle}
 \endbibitem
 
-%%% 18
+%%% 17
 \bibitem{whelpton1947}
-\begin{bbook}
-\bauthor{\bsnm{Whelpton}, \binits{P.K.}},
-\bauthor{\bsnm{Eldridge}, \binits{H.T.}},
-\bauthor{\bsnm{Siegel}, \binits{J.S.}}:
-\bbtitle{Forecasts of the Population of the United States, 1945-1975}.
-\bpublisher{US government printing office}, \blocation{???}
-(\byear{1947})
-\end{bbook}
+\begin{botherref}
+\oauthor{\bsnm{Whelpton}, \binits{P.K.}},
+\oauthor{\bsnm{Eldridge}, \binits{H.T.}},
+\oauthor{\bsnm{Siegel}, \binits{J.S.}}:
+Forecasts of the Population of the United States, 1945-1975.
+US government printing office
+(1947)
+\end{botherref}
 \endbibitem
 
-%%% 19
+%%% 18
 \bibitem{wunsch1975minimum}
 \begin{barticle}
 \bauthor{\bsnm{Wunsch}, \binits{G.}}:
@@ -308,7 +294,7 @@ Direcci{\'o}n General de Informaci{\'o}n en Salud, Secretar{\'\i}a de Salud.
 \end{barticle}
 \endbibitem
 
-%%% 20
+%%% 19
 \bibitem{vallin2008minimum}
 \begin{barticle}
 \bauthor{\bsnm{Vallin}, \binits{J.}},
@@ -321,7 +307,7 @@ Direcci{\'o}n General de Informaci{\'o}n en Salud, Secretar{\'\i}a de Salud.
 \end{barticle}
 \endbibitem
 
-%%% 21
+%%% 20
 \bibitem{gonzalez2016mexico}
 \begin{barticle}
 \bauthor{\bsnm{Gonz{\'a}lez-Pier}, \binits{E.}},
@@ -342,25 +328,19 @@ Direcci{\'o}n General de Informaci{\'o}n en Salud, Secretar{\'\i}a de Salud.
 \end{barticle}
 \endbibitem
 
-%%% 22
-\bibitem{gonzalez2011health}
+%%% 21
+\bibitem{gamlin2015violence}
 \begin{barticle}
-\bauthor{\bsnm{Gonz{\'a}lez-Gonz{\'a}lez}, \binits{C.}},
-\bauthor{\bsnm{S{\'a}nchez-Garc{\'\i}a}, \binits{S.}},
-\bauthor{\bsnm{Ju{\'a}rez-Cedillo}, \binits{T.}},
-\bauthor{\bsnm{Rosas-Carrasco}, \binits{O.}},
-\bauthor{\bsnm{Guti{\'e}rrez-Robledo}, \binits{L.M.}},
-\bauthor{\bsnm{Garc{\'\i}a-Pe{\~n}a}, \binits{C.}}:
-\batitle{Health care utilization in the elderly mexican population:
-  expenditures and determinants}.
-\bjtitle{BMC public health}
-\bvolume{11}(\bissue{1}),
-\bfpage{192}
-(\byear{2011})
+\bauthor{\bsnm{Gamlin}, \binits{J.}}:
+\batitle{Violence and homicide in {M}exico: a global health issue}.
+\bjtitle{The Lancet}
+\bvolume{385}(\bissue{9968}),
+\bfpage{605}--\blpage{606}
+(\byear{2015})
 \end{barticle}
 \endbibitem
 
-%%% 23
+%%% 22
 \bibitem{gomez2016dissonant}
 \begin{barticle}
 \bauthor{\bsnm{G{\'o}mez-Dant{\'e}s}, \binits{H.}},
@@ -382,7 +362,7 @@ Direcci{\'o}n General de Informaci{\'o}n en Salud, Secretar{\'\i}a de Salud.
 \end{barticle}
 \endbibitem
 
-%%% 24
+%%% 23
 \bibitem{Frenk2006}
 \begin{barticle}
 \bauthor{\bsnm{Frenk}, \binits{J.}}:
@@ -396,7 +376,7 @@ doi:\doiurl{10.1016/S0140-6736(06)69376-8}
 \end{barticle}
 \endbibitem
 
-%%% 25
+%%% 24
 \bibitem{INEGI}
 \begin{botherref}
 \oauthor{\bsnm{{{Instituto Nacional de Estad{\'i}stica y Geograf{\'i}a}}}}:
@@ -408,21 +388,37 @@ machine readable files
 \end{botherref}
 \endbibitem
 
-%%% 26
-\bibitem{rivera2002epidemiological}
+%%% 25
+\bibitem{patel2006comorbidity}
 \begin{barticle}
-\bauthor{\bsnm{Rivera}, \binits{J.A.}},
-\bauthor{\bsnm{Barquera}, \binits{S.}},
-\bauthor{\bsnm{Campirano}, \binits{F.}},
-\bauthor{\bsnm{Campos}, \binits{I.}},
-\bauthor{\bsnm{Safdie}, \binits{M.}},
-\bauthor{\bsnm{Tovar}, \binits{V.}}:
-\batitle{Epidemiological and nutritional transition in {M}exico: rapid increase
-  of non-communicable chronic diseases and obesity}.
-\bjtitle{Public health nutrition}
-\bvolume{5}(\bissue{1a}),
-\bfpage{113}--\blpage{122}
-(\byear{2002})
+\bauthor{\bsnm{Patel}, \binits{K.V.}},
+\bauthor{\bsnm{Peek}, \binits{M.K.}},
+\bauthor{\bsnm{Wong}, \binits{R.}},
+\bauthor{\bsnm{Markides}, \binits{K.S.}}:
+\batitle{Comorbidity and disability in elderly mexican and mexican american
+  adults: findings from mexico and the southwestern united states}.
+\bjtitle{Journal of aging and health}
+\bvolume{18}(\bissue{2}),
+\bfpage{315}--\blpage{329}
+(\byear{2006})
+\end{barticle}
+\endbibitem
+
+%%% 26
+\bibitem{gonzalez2011health}
+\begin{barticle}
+\bauthor{\bsnm{Gonz{\'a}lez-Gonz{\'a}lez}, \binits{C.}},
+\bauthor{\bsnm{S{\'a}nchez-Garc{\'\i}a}, \binits{S.}},
+\bauthor{\bsnm{Ju{\'a}rez-Cedillo}, \binits{T.}},
+\bauthor{\bsnm{Rosas-Carrasco}, \binits{O.}},
+\bauthor{\bsnm{Guti{\'e}rrez-Robledo}, \binits{L.M.}},
+\bauthor{\bsnm{Garc{\'\i}a-Pe{\~n}a}, \binits{C.}}:
+\batitle{Health care utilization in the elderly mexican population:
+  expenditures and determinants}.
+\bjtitle{BMC public health}
+\bvolume{11}(\bissue{1}),
+\bfpage{192}
+(\byear{2011})
 \end{barticle}
 \endbibitem
 
@@ -487,15 +483,21 @@ University of California, Berkeley, and Max Planck Institute for Demographic
 \endbibitem
 
 %%% 31
-\bibitem{tobias2001}
+\bibitem{hernandez2011assessing}
 \begin{barticle}
-\bauthor{\bsnm{Tobias}, \binits{M.}},
-\bauthor{\bsnm{Jackson}, \binits{G.}}:
-\batitle{Avoidable mortality in new zealand, 1981--97}.
-\bjtitle{Australian and New Zealand journal of public health}
-\bvolume{25}(\bissue{1}),
-\bfpage{12}--\blpage{20}
-(\byear{2001})
+\bauthor{\bsnm{Hern{\'a}ndez}, \binits{B.}},
+\bauthor{\bsnm{Ram{\'\i}rez-Villalobos}, \binits{D.}},
+\bauthor{\bsnm{Romero}, \binits{M.}},
+\bauthor{\bsnm{G{\'o}mez}, \binits{S.}},
+\bauthor{\bsnm{Atkinson}, \binits{C.}},
+\bauthor{\bsnm{Lozano}, \binits{R.}}:
+\batitle{Assessing quality of medical death certification: concordance between
+  gold standard diagnosis and underlying cause of death in selected {M}exican
+  hospitals}.
+\bjtitle{Population health metrics}
+\bvolume{9}(\bissue{1}),
+\bfpage{38}
+(\byear{2011})
 \end{barticle}
 \endbibitem
 
@@ -512,14 +514,12 @@ University of California, Berkeley, and Max Planck Institute for Demographic
 
 %%% 33
 \bibitem{beltran2011avoidable}
-\begin{bchapter}
-\bauthor{\bsnm{Beltr{\'a}n-S{\'a}nchez}, \binits{H.}}:
-\bctitle{Avoidable mortality}.
-In: \bbtitle{International Handbook of Adult Mortality},
-pp. \bfpage{491}--\blpage{508}.
-\bpublisher{Springer}, \blocation{???}
-(\byear{2011})
-\end{bchapter}
+\begin{botherref}
+\oauthor{\bsnm{Beltr{\'a}n-S{\'a}nchez}, \binits{H.}}:
+Avoidable Mortality.
+Springer
+(2011)
+\end{botherref}
 \endbibitem
 
 %%% 34
@@ -606,14 +606,12 @@ Health Affairs,
 
 %%% 40
 \bibitem{aschner2016obesity}
-\begin{bchapter}
-\bauthor{\bsnm{Aschner}, \binits{P.}}:
-\bctitle{Obesity in {L}atin {A}merica}.
-In: \bbtitle{Metabolic Syndrome},
-pp. \bfpage{33}--\blpage{39}.
-\bpublisher{Springer}, \blocation{???}
-(\byear{2016})
-\end{bchapter}
+\begin{botherref}
+\oauthor{\bsnm{Aschner}, \binits{P.}}:
+Obesity in {L}atin {A}merica.
+Springer
+(2016)
+\end{botherref}
 \endbibitem
 
 %%% 41
@@ -637,29 +635,31 @@ pp. \bfpage{33}--\blpage{39}.
 \endbibitem
 
 %%% 42
-\bibitem{united2009millennium}
-\begin{botherref}
-\oauthor{\bsnm{{{United Nations}}}}:
-The millennium development goals report 2009.
-United Nations Publications
-(2009)
-\end{botherref}
+\bibitem{rivera2002epidemiological}
+\begin{barticle}
+\bauthor{\bsnm{Rivera}, \binits{J.A.}},
+\bauthor{\bsnm{Barquera}, \binits{S.}},
+\bauthor{\bsnm{Campirano}, \binits{F.}},
+\bauthor{\bsnm{Campos}, \binits{I.}},
+\bauthor{\bsnm{Safdie}, \binits{M.}},
+\bauthor{\bsnm{Tovar}, \binits{V.}}:
+\batitle{Epidemiological and nutritional transition in mexico: rapid increase
+  of non-communicable chronic diseases and obesity}.
+\bjtitle{Public health nutrition}
+\bvolume{5}(\bissue{1a}),
+\bfpage{113}--\blpage{122}
+(\byear{2002})
+\end{barticle}
 \endbibitem
 
 %%% 43
-\bibitem{knaul2015achieving}
-\begin{barticle}
-\bauthor{\bsnm{Knaul}, \binits{F.M.}},
-\bauthor{\bsnm{Bhadelia}, \binits{A.}},
-\bauthor{\bsnm{Atun}, \binits{R.}},
-\bauthor{\bsnm{Frenk}, \binits{J.}}:
-\batitle{Achieving effective universal health coverage and diagonal approaches
-  to care for chronic illnesses}.
-\bjtitle{Health Affairs}
-\bvolume{34}(\bissue{9}),
-\bfpage{1514}--\blpage{1522}
-(\byear{2015})
-\end{barticle}
+\bibitem{leon2011trends}
+\begin{botherref}
+\oauthor{\bsnm{Leon}, \binits{D.A.}}:
+Trends in European life expectancy: a salutary view.
+IEA
+(2011)
+\end{botherref}
 \endbibitem
 
 \end{thebibliography}
@@ -883,21 +883,6 @@ United Nations Publications
 </bibl>
 
 <bibl id="B15">
-  <title><p>Efecto de las muertes evitables y no evitables en la esperanza de
-  vida en M{\'e}xico, 1998--2000 y 2008--2010</p></title>
-  <aug>
-    <au><snm>Agudelo Botero</snm><fnm>M</fnm></au>
-    <au><snm>D{\'a}vila Cervantes</snm><fnm>CA</fnm></au>
-  </aug>
-  <source>Rev Panam Salud Publica</source>
-  <publisher>SciELO Public Health</publisher>
-  <pubdate>2014</pubdate>
-  <volume>35</volume>
-  <issue>2</issue>
-  <fpage>121</fpage>
-</bibl>
-
-<bibl id="B16">
   <title><p>Mortalidad evitable en M{\'e}xico y su contribuci{\'o}n a los
   a{\~n}os de vida perdidos: An{\'a}lisis por grado de marginaci{\'o}n estatal,
   2001-2010</p></title>
@@ -915,7 +900,7 @@ United Nations Publications
   <lpage>-286</lpage>
 </bibl>
 
-<bibl id="B17">
+<bibl id="B16">
   <title><p>Homicides in {M}exico reversed life expectancy gains for men and
   slowed them for women, 2000-10</p></title>
   <aug>
@@ -932,7 +917,7 @@ United Nations Publications
   <lpage>8</lpage>
 </bibl>
 
-<bibl id="B18">
+<bibl id="B17">
   <title><p>Forecasts of the Population of the United States,
   1945-1975</p></title>
   <aug>
@@ -944,7 +929,7 @@ United Nations Publications
   <pubdate>1947</pubdate>
 </bibl>
 
-<bibl id="B19">
+<bibl id="B18">
   <title><p>A minimum life-table for Europe</p></title>
   <aug>
     <au><snm>Wunsch</snm><fnm>G</fnm></au>
@@ -958,7 +943,7 @@ United Nations Publications
   <lpage>-10</lpage>
 </bibl>
 
-<bibl id="B20">
+<bibl id="B19">
   <title><p>Minimum Mortality: A Predictor of Future Progress?</p></title>
   <aug>
     <au><snm>Vallin</snm><fnm>J</fnm></au>
@@ -973,7 +958,7 @@ United Nations Publications
   <lpage>-590</lpage>
 </bibl>
 
-<bibl id="B21">
+<bibl id="B20">
   <title><p>{M}exico's path towards the {S}ustainable {D}evelopment {G}oal for
   health: an assessment of the feasibility of reducing premature mortality by
   40\% by 2030</p></title>
@@ -996,26 +981,22 @@ United Nations Publications
   <lpage>-e725</lpage>
 </bibl>
 
-<bibl id="B22">
-  <title><p>Health care utilization in the elderly Mexican population:
-  expenditures and determinants</p></title>
+<bibl id="B21">
+  <title><p>Violence and homicide in {M}exico: a global health
+  issue</p></title>
   <aug>
-    <au><snm>Gonz{\'a}lez Gonz{\'a}lez</snm><fnm>C</fnm></au>
-    <au><snm>S{\'a}nchez Garc{\'\i}a</snm><fnm>S</fnm></au>
-    <au><snm>Ju{\'a}rez Cedillo</snm><fnm>T</fnm></au>
-    <au><snm>Rosas Carrasco</snm><fnm>O</fnm></au>
-    <au><snm>Guti{\'e}rrez Robledo</snm><fnm>LM</fnm></au>
-    <au><snm>Garc{\'\i}a Pe{\~n}a</snm><fnm>C</fnm></au>
+    <au><snm>Gamlin</snm><fnm>J</fnm></au>
   </aug>
-  <source>BMC public health</source>
-  <publisher>BioMed Central</publisher>
-  <pubdate>2011</pubdate>
-  <volume>11</volume>
-  <issue>1</issue>
-  <fpage>192</fpage>
+  <source>The Lancet</source>
+  <publisher>Elsevier</publisher>
+  <pubdate>2015</pubdate>
+  <volume>385</volume>
+  <issue>9968</issue>
+  <fpage>605</fpage>
+  <lpage>-606</lpage>
 </bibl>
 
-<bibl id="B23">
+<bibl id="B22">
   <title><p>Dissonant health transition in the states of {M}exico, 1990--2013:
   a systematic analysis for the {G}lobal {B}urden of {D}isease Study
   2013</p></title>
@@ -1041,7 +1022,7 @@ United Nations Publications
   <lpage>-2402</lpage>
 </bibl>
 
-<bibl id="B24">
+<bibl id="B23">
   <title><p>Bridging the divide: global lessons from evidence-based health
   policy in {M}exico</p></title>
   <aug>
@@ -1056,7 +1037,7 @@ United Nations Publications
   <url>http://www.sciencedirect.com/science/article/pii/S0140673606693768</url>
 </bibl>
 
-<bibl id="B25">
+<bibl id="B24">
   <title><p>Deaths microdata</p></title>
   <aug>
     <au><cnm>{{Instituto Nacional de Estad{\'i}stica y
@@ -1068,24 +1049,41 @@ United Nations Publications
   <note>machine readable files</note>
 </bibl>
 
-<bibl id="B26">
-  <title><p>Epidemiological and nutritional transition in {M}exico: rapid
-  increase of non-communicable chronic diseases and obesity</p></title>
+<bibl id="B25">
+  <title><p>Comorbidity and disability in elderly Mexican and Mexican American
+  adults: findings from Mexico and the southwestern United States</p></title>
   <aug>
-    <au><snm>Rivera</snm><fnm>JA</fnm></au>
-    <au><snm>Barquera</snm><fnm>S</fnm></au>
-    <au><snm>Campirano</snm><fnm>F</fnm></au>
-    <au><snm>Campos</snm><fnm>I</fnm></au>
-    <au><snm>Safdie</snm><fnm>M</fnm></au>
-    <au><snm>Tovar</snm><fnm>V</fnm></au>
+    <au><snm>Patel</snm><fnm>KV</fnm></au>
+    <au><snm>Peek</snm><fnm>MK</fnm></au>
+    <au><snm>Wong</snm><fnm>R</fnm></au>
+    <au><snm>Markides</snm><fnm>KS</fnm></au>
   </aug>
-  <source>Public health nutrition</source>
-  <publisher>Cambridge Univ Press</publisher>
-  <pubdate>2002</pubdate>
-  <volume>5</volume>
-  <issue>1a</issue>
-  <fpage>113</fpage>
-  <lpage>-122</lpage>
+  <source>Journal of aging and health</source>
+  <publisher>Sage Publications Sage CA: Thousand Oaks, CA</publisher>
+  <pubdate>2006</pubdate>
+  <volume>18</volume>
+  <issue>2</issue>
+  <fpage>315</fpage>
+  <lpage>-329</lpage>
+</bibl>
+
+<bibl id="B26">
+  <title><p>Health care utilization in the elderly Mexican population:
+  expenditures and determinants</p></title>
+  <aug>
+    <au><snm>Gonz{\'a}lez Gonz{\'a}lez</snm><fnm>C</fnm></au>
+    <au><snm>S{\'a}nchez Garc{\'\i}a</snm><fnm>S</fnm></au>
+    <au><snm>Ju{\'a}rez Cedillo</snm><fnm>T</fnm></au>
+    <au><snm>Rosas Carrasco</snm><fnm>O</fnm></au>
+    <au><snm>Guti{\'e}rrez Robledo</snm><fnm>LM</fnm></au>
+    <au><snm>Garc{\'\i}a Pe{\~n}a</snm><fnm>C</fnm></au>
+  </aug>
+  <source>BMC public health</source>
+  <publisher>BioMed Central</publisher>
+  <pubdate>2011</pubdate>
+  <volume>11</volume>
+  <issue>1</issue>
+  <fpage>192</fpage>
 </bibl>
 
 <bibl id="B27">
@@ -1153,18 +1151,23 @@ United Nations Publications
 </bibl>
 
 <bibl id="B31">
-  <title><p>Avoidable mortality in New Zealand, 1981--97</p></title>
+  <title><p>Assessing quality of medical death certification: concordance
+  between gold standard diagnosis and underlying cause of death in selected
+  {M}exican hospitals</p></title>
   <aug>
-    <au><snm>Tobias</snm><fnm>M</fnm></au>
-    <au><snm>Jackson</snm><fnm>G</fnm></au>
+    <au><snm>Hern{\'a}ndez</snm><fnm>B</fnm></au>
+    <au><snm>Ram{\'\i}rez Villalobos</snm><fnm>D</fnm></au>
+    <au><snm>Romero</snm><fnm>M</fnm></au>
+    <au><snm>G{\'o}mez</snm><fnm>S</fnm></au>
+    <au><snm>Atkinson</snm><fnm>C</fnm></au>
+    <au><snm>Lozano</snm><fnm>R</fnm></au>
   </aug>
-  <source>Australian and New Zealand journal of public health</source>
-  <publisher>Wiley Online Library</publisher>
-  <pubdate>2001</pubdate>
-  <volume>25</volume>
+  <source>Population health metrics</source>
+  <publisher>BioMed Central</publisher>
+  <pubdate>2011</pubdate>
+  <volume>9</volume>
   <issue>1</issue>
-  <fpage>12</fpage>
-  <lpage>-20</lpage>
+  <fpage>38</fpage>
 </bibl>
 
 <bibl id="B32">
@@ -1317,30 +1320,32 @@ United Nations Publications
 </bibl>
 
 <bibl id="B42">
-  <title><p>The millennium development goals report 2009</p></title>
+  <title><p>Epidemiological and nutritional transition in Mexico: rapid
+  increase of non-communicable chronic diseases and obesity</p></title>
   <aug>
-    <au><cnm>{{United Nations}}</cnm></au>
+    <au><snm>Rivera</snm><fnm>JA</fnm></au>
+    <au><snm>Barquera</snm><fnm>S</fnm></au>
+    <au><snm>Campirano</snm><fnm>F</fnm></au>
+    <au><snm>Campos</snm><fnm>I</fnm></au>
+    <au><snm>Safdie</snm><fnm>M</fnm></au>
+    <au><snm>Tovar</snm><fnm>V</fnm></au>
   </aug>
-  <publisher>United Nations Publications</publisher>
-  <pubdate>2009</pubdate>
+  <source>Public health nutrition</source>
+  <publisher>Cambridge Univ Press</publisher>
+  <pubdate>2002</pubdate>
+  <volume>5</volume>
+  <issue>1a</issue>
+  <fpage>113</fpage>
+  <lpage>-122</lpage>
 </bibl>
 
 <bibl id="B43">
-  <title><p>Achieving Effective Universal Health Coverage And Diagonal
-  Approaches To Care For Chronic Illnesses</p></title>
+  <title><p>Trends in European life expectancy: a salutary view</p></title>
   <aug>
-    <au><snm>Knaul</snm><fnm>FM</fnm></au>
-    <au><snm>Bhadelia</snm><fnm>A</fnm></au>
-    <au><snm>Atun</snm><fnm>R</fnm></au>
-    <au><snm>Frenk</snm><fnm>J</fnm></au>
+    <au><snm>Leon</snm><fnm>DA</fnm></au>
   </aug>
-  <source>Health Affairs</source>
-  <publisher>Health Affairs</publisher>
-  <pubdate>2015</pubdate>
-  <volume>34</volume>
-  <issue>9</issue>
-  <fpage>1514</fpage>
-  <lpage>-1522</lpage>
+  <publisher>IEA</publisher>
+  <pubdate>2011</pubdate>
 </bibl>
 
 </refgrp>

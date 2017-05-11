@@ -80,16 +80,37 @@ tab.state <- function(age,yr,sx){
 setorder(fig1.data[year == yr & age.g==as.character(unique(fig1.data$age.g)[age]) & sex==sx],temp_e0)[]}
 
   
-  tab.state(1,2015,"Females")
-  tab.state(1,2015,"Males")
+  tab.state(1,2010,"Females")
+  tab.state(1,2010,"Males")
+  
+  
+  g <- 3
+  y <- 2015
+  mean(tab.state(g,y,"Males")$temp_e0[-c(34,35)])
+  mean(tab.state(g,y,"Females")$temp_e0[-c(34,35)])
+  
+  p1  <- sd(tab.state(g,y,"Males")$temp_e0[-c(34,35)])
+  p2 <- sd(tab.state(g,y,"Females")$temp_e0[-c(34,35)])
+  
+  
+  mean(tab.state(g,y,"Females")$temp_e0[-c(34,35)]) - s.e*p2
+  mean(tab.state(g,y,"Females")$temp_e0[-c(34,35)]) + s.e*p2
+  
+  mean(tab.state(g,y,"Males")$temp_e0[-c(34,35)]) - s.e*p1
+  mean(tab.state(g,y,"Males")$temp_e0[-c(34,35)]) + s.e*p1
   
   
   
-  max(tab.state(1,2015,"Males")$temp_e0[-c(34,35)])
+  mean(tab.state(2,2015,"Males")$temp_e0[-c(34,35)]) + s.e*p1
+  mean(tab.state(2,2015,"Females")$temp_e0[-c(34,35)]) + s.e*p2
+  
+  
+  s.e <- qnorm(p = .975,mean = 0,sd = 1)
+  
   
   tab.state(1,2015,"Males")
 
-mean(tab.state(2,2005,"Males")$temp_e0[-c(33,34)])
+mean(tab.state(2,2015,"Males")$temp_e0[-c(33,34)])
 
 tab.state(2,2005,"Males")
 tab.state(2,2010,"Males")

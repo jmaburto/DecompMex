@@ -216,7 +216,7 @@ rankplot <- function(mat,
 # 
 # dev.off()
 
-pdf("Appendix Figures/RankFemales.pdf",width=5,height=8)
+pdf("Manuscript/Supplemental material/RankFemales.pdf",width=5,height=8)
 par(mai=c(.5,1.5,.5,.5))
 rankplot(f.mat, colfemales, lwdfemales, 
 		panel.first=
@@ -360,3 +360,22 @@ legend(x=1,y=-1,
 
 dev.off()
 
+
+pdf("Manuscript/Supplemental material/RankFemales.pdf",width=5,height=8,useDingbats = F)
+par(mai=c(.5,1.5,.5,.5))
+
+rankplot(f.mat, colmales, lwdmales, pchmales, 
+         panel.first=
+           list(
+             rect(rep(.9,16),seq(1,31,by=2)-.5,rep(3.1,16),seq(2,32,by=2)-.5,col=gray(.95),border=NA)))
+text(1:3,33,c("Young (0-14)","Middle (15-49)","Older (50-84)"),xpd=TRUE)
+legend(x=1,y=-1,
+       pch = c(17,16,15),
+       col=c("black","black","black"),
+       legend=c("North","Central","South"),
+       bty="n",
+       horiz=TRUE,
+       xpd=TRUE,
+       border = NA)
+
+dev.off()
